@@ -14,6 +14,7 @@
   },
   "dependencies": {
     "@backpackapp-io/react-native-toast": "^0.10.0",
+    "@expo/metro-runtime": "^3.1.1",
     "@expo/vector-icons": "^13.0.0",
     "@react-native-async-storage/async-storage": "^1.21.0",
     "@react-navigation/native": "^6.0.2",
@@ -38,6 +39,7 @@
     "react-native-screens": "~3.22.0",
     "react-native-toast-message": "^2.2.0",
     "react-native-web": "~0.19.6",
+    "sharp": "^0.33.2",
     "tailwind-rn": "^4.2.0"
   },
   "devDependencies": {
